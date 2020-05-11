@@ -1,0 +1,15 @@
+'hello world',6,'Houston',5
+'Exploiting T-rays',7,'Seattle',4
+'Hybrids Computers, not cars',8,'Atlanta',3
+'Getting to bottom of Web searches',9,'Arlington',2
+'Mapping the whole Internet',10,'Sugarland',1
+'The Fluid Project',11,'Ridgeford',1
+'Attila: one radio on many',12,'Houston',2
+'Sniffing out insider threats',13,'Seattle',4
+'All about Twitter',14,'Atlanta',3
+'RFID and the heart',15,'Ridgeford',2
+'Really, really fast wireless',16,'Houston',1
+'Real bandwidth management',17,'Atlanta',2
+'Vocal Joystick',18,'Seattle',5
+'Measuring boredom',19,'Sugarland',3
+'Good Samaritans',20,'Ridgeford',2
